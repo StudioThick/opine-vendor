@@ -20,6 +20,7 @@
     "gulp-opine": ">=0.7.0"
   },
   "dependencies": {
-    "gulp-concat": "^2.6.0"
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
   }
 }
